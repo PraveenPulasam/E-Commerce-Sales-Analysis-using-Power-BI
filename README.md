@@ -29,10 +29,8 @@ The dataset contains order-level sales data including:
 - **Electronics and Fashion** are top-performing categories
 - **Xiaomi** emerged as the best-performing brand
 
-##  Repository Structure
-- Dataset: Raw CSV data
-- PowerBI: Dashboard file (.pbix)
-- Screenshots: <img width="883" height="480" alt="Screenshot 2026-01-06 200904" src="https://github.com/user-attachments/assets/04cb4e54-27d0-4a9e-be2e-75cea1c9923a" />
+##  Screen shot
+<img width="883" height="480" alt="Screenshot 2026-01-06 200904" src="https://github.com/user-attachments/assets/04cb4e54-27d0-4a9e-be2e-75cea1c9923a" />
 
 
 ##  Outcome
