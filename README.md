@@ -1,4 +1,4 @@
- E-Commerce Sales Analysis | Power BI Dashboard
+# E-Commerce Sales Analysis | Power BI Dashboard
 
 ## Business problem
 An e-commerce business needed visibility into which months, categories, and brands were driving sales — and which were underperforming — to guide inventory and marketing decisions.
@@ -26,18 +26,9 @@ Order-level sales data including: Order Date, Product Category, Brand, Quantity,
 
 ---
 **Connect:** [LinkedIn](https://linkedin.com/in/praveen-pulasam-567156137) | [GitHub Portfolio](https://github.com/PraveenPulasam)
-3 things to do after pasting this
-1
-Add an actual dashboard screenshot
 
-Take a screenshot of your Power BI dashboard, save as screenshot.png, upload to the repo root. That one image doubles the impact of this README.
-2
-[Add your LinkedIn URL
-](https://linkedin.com/in/praveen-pulasam-567156137)
+
 
 ##  Screen shot
 <img width="883" height="480" alt="Screenshot 2026-01-06 200904" src="https://github.com/user-attachments/assets/04cb4e54-27d0-4a9e-be2e-75cea1c9923a" />
 
-
-##  Outcome
-This dashboard helps stakeholders quickly track sales performance and make data-driven decisions.
